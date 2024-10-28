@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danengo
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C# Programming
+- 🌱 I’m currently learning C++ Programming
 - 💞️ I’m looking to collaborate on programming and software development. 
 - 📫 How to reach me @ danengo@gmail.com
 
